@@ -1,0 +1,66 @@
+{
+  "isSponsor": true,
+  "autoCatchRewardPokemon": true,
+  "betterWayCatchGalarianBird": true,
+  "buddyBerries": [
+    "GoldenRazzBerry",
+    "RazzBerry"
+  ],
+  "buddyDedicatedCare": true,
+  "catchMode": "ULTIMATE",
+  "claimSpecialQuests": true,
+  "enableBuddyFeature": true,
+  "enableEncounterIv": true,
+  "enableEventPassTweaks": true,
+  "enableFriendTweaks": true,
+  "enableIvAsName": true,
+  "enableLootStation": true,
+  "enablePartyChallenge": true,
+  "enablePinPostcard": true,
+  "enablePokemonStorageTweaks": true,
+  "enableQuestFeature": true,
+  "enableStats": false,
+  "encounterBerries": [
+    "GoldenPinapBerry",
+    "PinapBerry",
+    "RazzBerry",
+    "NanabBerry"
+  ],
+  "eventMode": true,
+  "gruntAttackMode": "SILENT",
+  "gruntCatchMode": {
+    "catchAll": true
+  },
+  "hatchEggs": {
+    "IncubatorBasic": [
+      12,
+      10,
+      7,
+      5,
+      2
+    ],
+    "IncubatorTimed": [
+      12,
+      10,
+      7,
+      5,
+      2
+    ]
+  },
+  "massTransfer": true,
+  "pokeballGrades": [
+    4
+  ],
+  "preferPokeBalls": [
+    "UltraBall",
+    "GreatBall",
+    "PokeBall"
+  ],
+  "reduceRender": true,
+  "skipCatchScreen": true,
+  "transferIV0": false,
+  "transferPokemonEgg": true,
+  "transferPokemonIv": 90,
+  "transferPokemonQuest": true,
+  "transferPurifiedIv100": false
+}
